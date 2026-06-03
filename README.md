@@ -116,7 +116,7 @@ Machine-Failure-Prediction-Using-ML
 
 ---
 
-# 🤖 Machine Learning
+#  Machine Learning
 
 
 ## Dataset
@@ -374,14 +374,7 @@ http://localhost:5173
 - Deep Learning Models
 
 
----
 
-# Author
-
-
-Developed by
-
-**Manisha G**
 
 
 
