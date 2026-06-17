@@ -232,24 +232,9 @@ Evaluation metrics used:
 
 # Confusion Matrix
 
+![Confusion Matrix](screenshots/confusion_matrix.png)
 
-```
-                Predicted
-
-             Healthy   Failure
-
-
-Actual Healthy
-
-              1926        6
-
-
-Actual Failure
-
-                27       41
-
-```
-
+The confusion matrix shows the Random Forest model performance on machine failure prediction.
 
 Explanation:
 
